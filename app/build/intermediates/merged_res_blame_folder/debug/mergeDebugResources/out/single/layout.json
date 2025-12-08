@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.smartnav.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.example.smartnav.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.example.smartnav.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.13\\com.example.smartnav.app-main-49:\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,13 @@
+{
+  "dependencies": {},
+  "class_names_log": {
+    "mappings": {
+      "activity_main": {
+        "qualified_name": "com.example.smartnav.databinding.ActivityMainBinding",
+        "module_package": "com.example.smartnav.databinding",
+        "variables": {},
+        "implementations": []
+      }
+    }
+  }
+}
